@@ -1,0 +1,18 @@
+:root {
+    --color01: red;
+    --size01: 300px;
+}
+
+
+.text-block {
+    width: var(--size01);
+}
+.image-block {
+    width: 300px;
+}
+
+
+.icon-Path-11:before {
+    color: var(--color01);
+    font-size: 30px;
+}
